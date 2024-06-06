@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\": "."
+    }
+  },
+  "require": {
+    "ext-pdo": "*",
+    "tecnickcom/tcpdf": "^6.2.13"
+  }
+}
